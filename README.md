@@ -1,5 +1,5 @@
 # 🎯 Product & Agile Case Study: Gestão Orientada a Dados em Negócios
-**Projeto Prático com Dados Reais** · Pós-Graduação em Gestão Ágil de Projetos/Gestão Ágil de Projetos · CESAR School  
+**Projeto Prático com Dados Reais** · Pós-Graduação em Gestão Ágil de Projetos/Análise de Dados e IA · CESAR School  
 
 ---
 
